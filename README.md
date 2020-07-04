@@ -1,5 +1,5 @@
 <h1 align="center">
-  Reconhecimento de Caracteres de Novas Placas do Mercosul utilizando Inteligência Artificial e Internet das Coisas
+  Reconhecimento de Caracteres de Novas Placas do Mercosul Utilizando Inteligência Artificial e Internet das Coisas
 </h1>
 <h4 align="center">
     <img  src="./git/fatec.png" alt="server" width="30%">
