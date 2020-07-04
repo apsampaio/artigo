@@ -161,4 +161,9 @@ Host: localhost:3333
     <img  src="./git/placa.png" alt="server" width="100%">
 </h4>
 
+## 🎁 Contribuir
+
+- 🤖 Traineddata treinado com placas mercosul.
+- 🎥 Reconhecimento em tempo real com streaming.
+
 Made with ❤ by Andre Sampaio 👋
