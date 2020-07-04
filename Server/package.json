@@ -1,0 +1,22 @@
+{
+  "name": "ArtigoCientificoFatec",
+  "version": "1.0.0",
+  "main": "server.ts",
+  "license": "MIT",
+  "scripts": {
+    "start": "npx ts-node-dev --transpileOnly --ignore-watch node_modules --no-notify server.ts"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.6",
+    "@types/multer": "^1.4.3",
+    "ts-node-dev": "^1.0.0-pre.47",
+    "typescript": "^3.9.5"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "jimp": "^0.13.0",
+    "multer": "^1.4.2",
+    "sinesp-api": "^2.0.2",
+    "tesseract.js": "^2.1.1"
+  }
+}
